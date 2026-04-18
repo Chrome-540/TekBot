@@ -200,7 +200,7 @@ if (
         )
 
         email_footer = (
-            "\n\n For more info and details, "
+            "\n\n If you want more information about our services, "
             "please email us at: info@tekmarksolutions.com"
         )
 
