@@ -143,7 +143,7 @@ if not st.session_state.indexed:
             log.error(f"RAG Init Failed: {e}")
 
 # ---------------- MAIN UI ----------------
-logo_path = os.path.join(os.path.dirname(__file__), "..", "TekMark---Logo-01.png")
+logo_path = os.path.join(os.path.dirname(__file__), "TekMark---Logo-01.png")
 
 st.markdown('<div class="chat-window">', unsafe_allow_html=True)
 
