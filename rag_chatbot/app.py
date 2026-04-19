@@ -38,12 +38,9 @@ st.markdown("""
 
 /* Outer Chat Window */
 .chat-window {
-    border: 2px solid #D1D5DB;
-    border-radius: 22px;
-    padding: 25px;
-    background: white;
-    box-shadow: 0 10px 28px rgba(0,0,0,0.06);
-    margin-top: 20px;
+    border: none;
+    box-shadow: none;
+    padding: 10px 0;
 }
 
 /* Header Box */
